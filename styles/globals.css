@@ -24,3 +24,8 @@ a {
     background: black;
   }
 }
+
+.name{
+  display: flex;
+  flex-direction: column;
+}
